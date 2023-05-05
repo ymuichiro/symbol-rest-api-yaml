@@ -1,0 +1,1 @@
+# symbol-rest-api-yaml
